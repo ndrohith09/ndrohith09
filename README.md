@@ -18,3 +18,5 @@ Now, on so<h1 align="center">Hi 👋, I am Rohith</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndrohith09&show_icons=true&locale=en&layout=compact" alt="ndrohith09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndrohith09&" alt="ndrohith09" /></p>
+
+![Rohith's github stats](https://github-readme-stats.vercel.app/api?username=ndrohith09&show_icons=true&&title_color=red&icon_color=FF233B&text_color=FFFFFF&theme=dark) <br>
