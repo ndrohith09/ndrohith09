@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrohith09" alt="ndrohith09" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React JS,Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ndrohith09](https://github.com/ndrohith09)
 
