@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ndrohith09](https://github.com/ndrohith09)
 
