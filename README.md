@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ndrohith09](https://github.com/ndrohith09)
 
+- 😃 All of my blogs are available at [https://medium.com/@ndrohith09](https://medium.com/@ndrohith09)
+
 - 📫 How to reach me **ndrohith09@gmail.com**
 
 
