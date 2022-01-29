@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ndrohith09](https://github.com/ndrohith09)
 
-- 📝 I regularly write articles on [https://medium.com/@ndrohith09](https://medium.com/@ndrohith09)
+- 📝 I regularly write articles on [https://medium.com/@ndrohith](https://medium.com/@ndrohith)
 
 - 💬 Ask me about **ReactJS, Django, Flutter, RestAPI**
 
