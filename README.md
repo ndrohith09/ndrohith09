@@ -17,10 +17,11 @@
 
 - 📫 How to reach me **ndrohith09@gmail.com**
 
- 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+# Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
