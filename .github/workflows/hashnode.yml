@@ -3,7 +3,7 @@ name: "📚 latest Blog"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* * * * *" # Runs Every min
+    - cron: "0 */24 * * *" # Runs Every min
 
 jobs:
   update_blogs:
