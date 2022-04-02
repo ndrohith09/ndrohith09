@@ -21,6 +21,20 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648825568595/XTKJgB5ih.png" alt="My perspective on Chakra UI" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><strong>My perspective on Chakra UI</strong></a>
+<br/> Chakra UI is a collection of beautifully made React components that includes all of Tailwind's stylistic benefits and handles all of the complexity.First and foremost, Chakra UI has a light and dark mode configuration for your application which can b... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//how-to-use-docker-to-run-a-node-js-application" title="How to use docker to run a node js application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648798275624/aj7qFTzbH.png" alt="How to use docker to run a node js application" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//how-to-use-docker-to-run-a-node-js-application" title="How to use docker to run a node js application"><strong>How to use docker to run a node js application</strong></a>
+<br/> In this blog, I'll show you how to build a node js application, generate an image for it, and run it using Docker.
+Let's create our node js application.
+mdkir nodejsapp
+cd nodejsapp
+
+Now lets initialize package.json file using the following command.
+... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//sketch-icons-makes-it-simple-to-import-icons" title="Sketch-icons makes it simple to import icons"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739574275/LQE4Wh9gk.sketch-icons" alt="Sketch-icons makes it simple to import icons" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//sketch-icons-makes-it-simple-to-import-icons" title="Sketch-icons makes it simple to import icons"><strong>Sketch-icons makes it simple to import icons</strong></a>
 <br/> Sketch icons is a completely open-source icon set with 600+ icons that makes it easy for individuals to utilise icons. The Sketch-icons Web Component is a simple and effective way to incorporate Sketch icons into your app. The component will dynamica... </p> <br/> <br/>
@@ -40,13 +54,6 @@ npm install --global yarn
 In Debian / Ubuntu
 You can install Yarn from Debian package repository on Debian or Ubuntu Linux. You’ll need to set up the repository first:
 curl -sS https://dl.y... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//setting-up-continuous-integration-with-git-and-jenkins" title="Setting up Continuous Integration With Git and Jenkins"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739053619/ZX2_QPB_5.png" alt="Setting up Continuous Integration With Git and Jenkins" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//setting-up-continuous-integration-with-git-and-jenkins" title="Setting up Continuous Integration With Git and Jenkins"><strong>Setting up Continuous Integration With Git and Jenkins</strong></a>
-<br/> In this post, I'll show you how to use git and Jenkins to set up a continuous integration system for a Github repository.
-Ascertaining that all of your installation procedures have been completed.
-Step 1
-Once Jenkins has been successfully started, we... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
