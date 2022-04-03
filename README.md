@@ -21,6 +21,10 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648913682316/frQ0WHjrQ.png" alt="Introduction to Jenkins Pipeline?" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><strong>Introduction to Jenkins Pipeline?</strong></a>
+<br/> Jenkins Pipeline is a collection of plugins that aid in the implementation and integration of continuous delivery pipelines into Jenkins.Pipeline offers an extendable collection of tools for modelling basic to complex delivery pipelines "as code" usi... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648825568595/XTKJgB5ih.png" alt="My perspective on Chakra UI" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><strong>My perspective on Chakra UI</strong></a>
 <br/> Chakra UI is a collection of beautifully made React components that includes all of Tailwind's stylistic benefits and handles all of the complexity.First and foremost, Chakra UI has a light and dark mode configuration for your application which can b... </p> <br/> <br/>
@@ -45,15 +49,6 @@ Now lets initialize package.json file using the following command.
 Document Object Model (DOM) is an abstraction of structured text. This text is an HTML code for web developers, and the DOM is simply referred to as HTML DOM. HTML elements are transformed into nodes in the DOM.
 The HTML DOM is Expensive
 Each web... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//build-a-react-application-using-yarn-package-manager" title="Build a React application using yarn package manager"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739204695/tdbU-7AD5.webp" alt="Build a React application using yarn package manager" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//build-a-react-application-using-yarn-package-manager" title="Build a React application using yarn package manager"><strong>Build a React application using yarn package manager</strong></a>
-<br/> Install via npm
-You can use npm to install the yarn package.
-npm install --global yarn
-In Debian / Ubuntu
-You can install Yarn from Debian package repository on Debian or Ubuntu Linux. You’ll need to set up the repository first:
-curl -sS https://dl.y... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
