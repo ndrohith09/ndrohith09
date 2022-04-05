@@ -21,6 +21,14 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056359395/FDDyMwrbs.jpg" alt="Why do farmers want to give up farming?" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
+<br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649049142904/sBrN0XDvt.png" alt="India's Agriculture Sector" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><strong>India's Agriculture Sector</strong></a>
+<br/> Agriculture, together with its associated sectors, is without a doubt the most important source of income in India, particularly in the vast rural areas. It also makes a substantial contribution to the Gross Domestic Product (GDP). Friendly agricultu... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648913682316/frQ0WHjrQ.png" alt="Introduction to Jenkins Pipeline?" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><strong>Introduction to Jenkins Pipeline?</strong></a>
 <br/> Jenkins Pipeline is a collection of plugins that aid in the implementation and integration of continuous delivery pipelines into Jenkins.Pipeline offers an extendable collection of tools for modelling basic to complex delivery pipelines "as code" usi... </p> <br/> <br/>
@@ -38,17 +46,6 @@ cd nodejsapp
 
 Now lets initialize package.json file using the following command.
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//sketch-icons-makes-it-simple-to-import-icons" title="Sketch-icons makes it simple to import icons"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739574275/LQE4Wh9gk.sketch-icons" alt="Sketch-icons makes it simple to import icons" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//sketch-icons-makes-it-simple-to-import-icons" title="Sketch-icons makes it simple to import icons"><strong>Sketch-icons makes it simple to import icons</strong></a>
-<br/> Sketch icons is a completely open-source icon set with 600+ icons that makes it easy for individuals to utilise icons. The Sketch-icons Web Component is a simple and effective way to incorporate Sketch icons into your app. The component will dynamica... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//html-dom-vs-virtual-dom" title="HTML DOM vs Virtual DOM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739322654/5-f_wS_cG.webp" alt="HTML DOM vs Virtual DOM" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//html-dom-vs-virtual-dom" title="HTML DOM vs Virtual DOM"><strong>HTML DOM vs Virtual DOM</strong></a>
-<br/> DOM
-Document Object Model (DOM) is an abstraction of structured text. This text is an HTML code for web developers, and the DOM is simply referred to as HTML DOM. HTML elements are transformed into nodes in the DOM.
-The HTML DOM is Expensive
-Each web... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
