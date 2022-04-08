@@ -21,6 +21,26 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649332927659/nAu22Y5eI.png" alt="Hello World 👋 in various languages" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><strong>Hello World 👋 in various languages</strong></a>
+<br/> Python (.py)
+print('Hello world!')
+
+Bhai Lang 
+hi bhai
+ bol bhai "Hello World";
+bye bhai
+
+Javascript (.js)
+console.log('Hello world!');
+
+Typescript (.ts)
+console.log('Hello world!');
+
+Java (.java)
+class HelloWorld {
+  public static void main(String[]... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056359395/FDDyMwrbs.jpg" alt="Why do farmers want to give up farming?" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
@@ -36,16 +56,6 @@
 <a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648825568595/XTKJgB5ih.png" alt="My perspective on Chakra UI" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><strong>My perspective on Chakra UI</strong></a>
 <br/> Chakra UI is a collection of beautifully made React components that includes all of Tailwind's stylistic benefits and handles all of the complexity.First and foremost, Chakra UI has a light and dark mode configuration for your application which can b... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//how-to-use-docker-to-run-a-node-js-application" title="How to use docker to run a node js application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648798275624/aj7qFTzbH.png" alt="How to use docker to run a node js application" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//how-to-use-docker-to-run-a-node-js-application" title="How to use docker to run a node js application"><strong>How to use docker to run a node js application</strong></a>
-<br/> In this blog, I'll show you how to build a node js application, generate an image for it, and run it using Docker.
-Let's create our node js application.
-mdkir nodejsapp
-cd nodejsapp
-
-Now lets initialize package.json file using the following command.
-... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
