@@ -21,6 +21,18 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649518699915/bzsBzkBOs.png" alt="XYZ of versioning" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><strong>XYZ of versioning</strong></a>
+<br/> A Major release is represented by the first number in a version
+A Minor release is represented  by the second in a version
+A Patch release is represented  by the third in a version
+
+Major release version: If there are any major changes in a package, ... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//get-post-put-delete-in-axios" title="GET, POST , PUT , DELETE in Axios"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649517684218/JFSYq84i3.pdf" alt="GET, POST , PUT , DELETE in Axios" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//get-post-put-delete-in-axios" title="GET, POST , PUT , DELETE in Axios"><strong>GET, POST , PUT , DELETE in Axios</strong></a>
+<br/> Axios is a promise-based HTTP Client for node.js and the browser. It has an isomorphic shape ( it can run in the browser and nodejs with the same codebase). It uses the native node.js http module on the server, and XMLHttpRequests on the client (brow... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649332927659/nAu22Y5eI.png" alt="Hello World 👋 in various languages" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><strong>Hello World 👋 in various languages</strong></a>
 <br/> Python (.py)
@@ -48,14 +60,6 @@ class HelloWorld {
 <a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649049142904/sBrN0XDvt.png" alt="India's Agriculture Sector" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><strong>India's Agriculture Sector</strong></a>
 <br/> Agriculture, together with its associated sectors, is without a doubt the most important source of income in India, particularly in the vast rural areas. It also makes a substantial contribution to the Gross Domestic Product (GDP). Friendly agricultu... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648913682316/frQ0WHjrQ.png" alt="Introduction to Jenkins Pipeline?" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//introduction-to-jenkins-pipeline" title="Introduction to Jenkins Pipeline?"><strong>Introduction to Jenkins Pipeline?</strong></a>
-<br/> Jenkins Pipeline is a collection of plugins that aid in the implementation and integration of continuous delivery pipelines into Jenkins.Pipeline offers an extendable collection of tools for modelling basic to complex delivery pipelines "as code" usi... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648825568595/XTKJgB5ih.png" alt="My perspective on Chakra UI" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//my-perspective-on-chakra-ui" title="My perspective on Chakra UI"><strong>My perspective on Chakra UI</strong></a>
-<br/> Chakra UI is a collection of beautifully made React components that includes all of Tailwind's stylistic benefits and handles all of the complexity.First and foremost, Chakra UI has a light and dark mode configuration for your application which can b... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
