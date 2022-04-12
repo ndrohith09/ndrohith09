@@ -21,6 +21,25 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649657886511/dDnbV6yjB.jpg" alt="Most Difficult Coding Language😬" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><strong>Most Difficult Coding Language😬</strong></a>
+<br/> LOLCODE
+HAI 1.2
+    VISIBLE "Hello, World!"
+KTHXBYE
+
+// Hello, World!
+
+Brainf*ck
++[-->-[>>+>-----<<]<--<---]>-.>>>+.>>..+++[.>]<<<<.+++.------.<<-.>>>>+.[<->-]<-.>
+
+// Hello, World!
+
+Intercal
+DO ,1 <- #13
+PLEASE DO ,1 SUB #1 <- #238
+DO ,1 SUB #2 <- #... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649518699915/bzsBzkBOs.png" alt="XYZ of versioning" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><strong>XYZ of versioning</strong></a>
 <br/> A Major release is represented by the first number in a version
@@ -56,10 +75,6 @@ class HelloWorld {
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056359395/FDDyMwrbs.jpg" alt="Why do farmers want to give up farming?" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649049142904/sBrN0XDvt.png" alt="India's Agriculture Sector" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//indias-agriculture-sector" title="India's Agriculture Sector"><strong>India's Agriculture Sector</strong></a>
-<br/> Agriculture, together with its associated sectors, is without a doubt the most important source of income in India, particularly in the vast rural areas. It also makes a substantial contribution to the Gross Domestic Product (GDP). Friendly agricultu... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
