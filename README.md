@@ -21,6 +21,41 @@
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056359395/FDDyMwrbs.jpg" alt="Why do farmers want to give up farming?" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
+<br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649745729666/xQrvdh7Sh.png" alt="Creating an Axios Instance" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><strong>Creating an Axios Instance</strong></a>
+<br/> In this blog, I'll show you how to create an axios instance in a react project.
+I had covered the fundamentals of Axios in my earlier blog.
+https://ndrohith09.hashnode.dev/get-post-put-delete-in-axios
+Once your react app  is created lets create a com... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//django-based-todo-app" title="Django-based Todo App"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649741825151/LKn4Rt04U.jpeg" alt="Django-based Todo App" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//django-based-todo-app" title="Django-based Todo App"><strong>Django-based Todo App</strong></a>
+<br/> Setting your Django App
+https://ndrohith09.hashnode.dev/creating-a-django-application
+Here in this blog , I have created a django project called simple_todo and a django app called simple_todo_app .
+The structure of your django project looks as below... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//creating-a-django-application" title="Creating a Django application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649741882379/BvtoMx6SJ.jpeg" alt="Creating a Django application" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//creating-a-django-application" title="Creating a Django application"><strong>Creating a Django application</strong></a>
+<br/> Install Python
+Get the latest version of python from the link below
+https://www.python.org/downloads/
+Check Python version
+python --version
+
+Check pip version
+pip --version
+
+Installing Django
+python -m pip install django
+
+Check Django Version
+python ... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649657886511/dDnbV6yjB.jpg" alt="Most Difficult Coding Language😬" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><strong>Most Difficult Coding Language😬</strong></a>
 <br/> LOLCODE
@@ -39,42 +74,6 @@ Intercal
 DO ,1 <- #13
 PLEASE DO ,1 SUB #1 <- #238
 DO ,1 SUB #2 <- #... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649518699915/bzsBzkBOs.png" alt="XYZ of versioning" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//xyz-of-versioning" title="XYZ of versioning"><strong>XYZ of versioning</strong></a>
-<br/> A Major release is represented by the first number in a version
-A Minor release is represented  by the second in a version
-A Patch release is represented  by the third in a version
-
-Major release version: If there are any major changes in a package, ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//get-post-put-delete-in-axios" title="GET, POST , PUT , DELETE in Axios"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649517684218/JFSYq84i3.pdf" alt="GET, POST , PUT , DELETE in Axios" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//get-post-put-delete-in-axios" title="GET, POST , PUT , DELETE in Axios"><strong>GET, POST , PUT , DELETE in Axios</strong></a>
-<br/> Axios is a promise-based HTTP Client for node.js and the browser. It has an isomorphic shape ( it can run in the browser and nodejs with the same codebase). It uses the native node.js http module on the server, and XMLHttpRequests on the client (brow... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649332927659/nAu22Y5eI.png" alt="Hello World 👋 in various languages" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//hello-world-in-various-languages" title="Hello World 👋 in various languages"><strong>Hello World 👋 in various languages</strong></a>
-<br/> Python (.py)
-print('Hello world!')
-
-Bhai Lang 
-hi bhai
- bol bhai "Hello World";
-bye bhai
-
-Javascript (.js)
-console.log('Hello world!');
-
-Typescript (.ts)
-console.log('Hello world!');
-
-Java (.java)
-class HelloWorld {
-  public static void main(String[]... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056359395/FDDyMwrbs.jpg" alt="Why do farmers want to give up farming?" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
-<br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
