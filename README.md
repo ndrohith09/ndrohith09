@@ -25,6 +25,16 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650516519356/-de1OFQNm.jpg" alt="Some unknown HTML tags" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><strong>Some unknown HTML tags</strong></a>
+<br/> 1. Fieldset tag
+The <fieldset> tag in HTML is used to group logically similar fields within an HTML form.
+<fieldset>
+      <legend>User details:</legend>
+      <label>Name</label><br />
+      <input type="text" name="name" /><br />
+      <label>Email... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649745729666/xQrvdh7Sh.png" alt="Creating an Axios Instance" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><strong>Creating an Axios Instance</strong></a>
 <br/> In this blog, I'll show you how to create an axios instance in a react project.
@@ -55,25 +65,6 @@ python -m pip install django
 
 Check Django Version
 python ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649657886511/dDnbV6yjB.jpg" alt="Most Difficult Coding Language😬" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//most-difficult-coding-language" title="Most Difficult Coding Language😬"><strong>Most Difficult Coding Language😬</strong></a>
-<br/> LOLCODE
-HAI 1.2
-    VISIBLE "Hello, World!"
-KTHXBYE
-
-// Hello, World!
-
-Brainf*ck
-+[-->-[>>+>-----<<]<--<---]>-.>>>+.>>..+++[.>]<<<<.+++.------.<<-.>>>>+.[<->-]<-.>
-
-// Hello, World!
-
-Intercal
-DO ,1 <- #13
-PLEASE DO ,1 SUB #1 <- #238
-DO ,1 SUB #2 <- #... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
