@@ -25,6 +25,18 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650952351868/CJrzc6_3w.png" alt="Five levels of Software" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><strong>Five levels of Software</strong></a>
+<br/> UI : How data is displayed
+
+API : How data is retrieved
+
+DATABASE : How data is stored
+
+LOGIC : How data is processed
+
+HOSTING : Where data is stored </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650516519356/-de1OFQNm.jpg" alt="Some unknown HTML tags" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><strong>Some unknown HTML tags</strong></a>
 <br/> 1. Fieldset tag
@@ -48,23 +60,6 @@ Once your react app  is created lets create a com... </p> <br/> <br/>
 https://ndrohith09.hashnode.dev/creating-a-django-application
 Here in this blog , I have created a django project called simple_todo and a django app called simple_todo_app .
 The structure of your django project looks as below... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//creating-a-django-application" title="Creating a Django application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649741882379/BvtoMx6SJ.jpeg" alt="Creating a Django application" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//creating-a-django-application" title="Creating a Django application"><strong>Creating a Django application</strong></a>
-<br/> Install Python
-Get the latest version of python from the link below
-https://www.python.org/downloads/
-Check Python version
-python --version
-
-Check pip version
-pip --version
-
-Installing Django
-python -m pip install django
-
-Check Django Version
-python ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
