@@ -25,6 +25,10 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651217935755/MQoBZ5Ara.png" alt="Ubuntu 22.04 LTS" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><strong>Ubuntu 22.04 LTS</strong></a>
+<br/> Jammy jellyfish has a wide range of customization options. The desktop comes with both a dark and a light theme. The Appearance tab includes options for changing the colour style. A bright red dot no longer represents the window close button. Instead... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650952351868/CJrzc6_3w.png" alt="Five levels of Software" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><strong>Five levels of Software</strong></a>
 <br/> UI : How data is displayed
@@ -53,13 +57,6 @@ The <fieldset> tag in HTML is used to group logically similar fields within an H
 I had covered the fundamentals of Axios in my earlier blog.
 https://ndrohith09.hashnode.dev/get-post-put-delete-in-axios
 Once your react app  is created lets create a com... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//django-based-todo-app" title="Django-based Todo App"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649741825151/LKn4Rt04U.jpeg" alt="Django-based Todo App" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//django-based-todo-app" title="Django-based Todo App"><strong>Django-based Todo App</strong></a>
-<br/> Setting your Django App
-https://ndrohith09.hashnode.dev/creating-a-django-application
-Here in this blog , I have created a django project called simple_todo and a django app called simple_todo_app .
-The structure of your django project looks as below... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
