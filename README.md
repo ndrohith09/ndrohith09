@@ -25,6 +25,10 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652890993491/CwgH8tgvk.jpg" alt="How AI will shape the future?" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><strong>How AI will shape the future?</strong></a>
+<br/> In recent years, artificial intelligence has had quite a significant impact on many industries and will continue to profit them in the future. AI is transforming the way people work .  Most of the industries no longer consider hiring physical workers... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651217935755/MQoBZ5Ara.png" alt="Ubuntu 22.04 LTS" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><strong>Ubuntu 22.04 LTS</strong></a>
 <br/> Jammy jellyfish has a wide range of customization options. The desktop comes with both a dark and a light theme. The Appearance tab includes options for changing the colour style. A bright red dot no longer represents the window close button. Instead... </p> <br/> <br/>
@@ -50,13 +54,6 @@ The <fieldset> tag in HTML is used to group logically similar fields within an H
       <label>Name</label><br />
       <input type="text" name="name" /><br />
       <label>Email... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649745729666/xQrvdh7Sh.png" alt="Creating an Axios Instance" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//creating-an-axios-instance" title="Creating an Axios Instance"><strong>Creating an Axios Instance</strong></a>
-<br/> In this blog, I'll show you how to create an axios instance in a react project.
-I had covered the fundamentals of Axios in my earlier blog.
-https://ndrohith09.hashnode.dev/get-post-put-delete-in-axios
-Once your react app  is created lets create a com... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
