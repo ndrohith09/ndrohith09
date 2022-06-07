@@ -25,6 +25,10 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654503957546/kgEXS3BPN.png" alt="Setting up Jenkins for CI/CD and containerizing the application with Docker" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><strong>Setting up Jenkins for CI/CD and containerizing the application with Docker</strong></a>
+<br/> In this blog, I'll show you how to set up a Jenkins CI/CD pipeline and containerize an application with Docker. Let us take a logistic regression python code and push it to github. Jenkins will pull the code, run it, containerize the Python applicati... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652890993491/CwgH8tgvk.jpg" alt="How AI will shape the future?" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><strong>How AI will shape the future?</strong></a>
 <br/> In recent years, artificial intelligence has had quite a significant impact on many industries and will continue to profit them in the future. AI is transforming the way people work .  Most of the industries no longer consider hiring physical workers... </p> <br/> <br/>
@@ -44,16 +48,6 @@ DATABASE : How data is stored
 LOGIC : How data is processed
 
 HOSTING : Where data is stored </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650516519356/-de1OFQNm.jpg" alt="Some unknown HTML tags" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//some-unknown-html-tags" title="Some unknown HTML tags"><strong>Some unknown HTML tags</strong></a>
-<br/> 1. Fieldset tag
-The <fieldset> tag in HTML is used to group logically similar fields within an HTML form.
-<fieldset>
-      <legend>User details:</legend>
-      <label>Name</label><br />
-      <input type="text" name="name" /><br />
-      <label>Email... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
