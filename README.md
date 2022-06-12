@@ -25,6 +25,11 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654948806834/A7YMbo2gp.png" alt="Hand Digit Prediction using Neural Networks and Tensorflow" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><strong>Hand Digit Prediction using Neural Networks and Tensorflow</strong></a>
+<br/> In this blog, I'll show you how to train a neural network model using the MNIST dataset, as well as how to predict the digits in them using images.
+Make sure you have the Tensorflow package installed, as it will be utilised as a Deep Learning library... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654503957546/kgEXS3BPN.png" alt="Setting up Jenkins for CI/CD and containerizing the application with Docker" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><strong>Setting up Jenkins for CI/CD and containerizing the application with Docker</strong></a>
 <br/> In this blog, I'll show you how to set up a Jenkins CI/CD pipeline and containerize an application with Docker. Let us take a logistic regression python code and push it to github. Jenkins will pull the code, run it, containerize the Python applicati... </p> <br/> <br/>
@@ -36,18 +41,6 @@
 <a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651217935755/MQoBZ5Ara.png" alt="Ubuntu 22.04 LTS" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><strong>Ubuntu 22.04 LTS</strong></a>
 <br/> Jammy jellyfish has a wide range of customization options. The desktop comes with both a dark and a light theme. The Appearance tab includes options for changing the colour style. A bright red dot no longer represents the window close button. Instead... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650952351868/CJrzc6_3w.png" alt="Five levels of Software" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//five-levels-of-software" title="Five levels of Software"><strong>Five levels of Software</strong></a>
-<br/> UI : How data is displayed
-
-API : How data is retrieved
-
-DATABASE : How data is stored
-
-LOGIC : How data is processed
-
-HOSTING : Where data is stored </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
