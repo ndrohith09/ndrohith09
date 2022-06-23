@@ -25,6 +25,10 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655881969585/kMrRN4TwZ.jpg" alt="Introduction to Machine Learning" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><strong>Introduction to Machine Learning</strong></a>
+<br/> Machine learning is an artificial intelligence sub-field. It is a computer science research area that deals with methods to identify and implement systems and algorithms by which a computer can learn, based on the examples given in the input. The goa... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654948806834/A7YMbo2gp.png" alt="Hand Digit Prediction using Neural Networks and Tensorflow" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><strong>Hand Digit Prediction using Neural Networks and Tensorflow</strong></a>
 <br/> In this blog, I'll show you how to train a neural network model using the MNIST dataset, as well as how to predict the digits in them using images.
@@ -37,10 +41,6 @@ Make sure you have the Tensorflow package installed, as it will be utilised as a
 <a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652890993491/CwgH8tgvk.jpg" alt="How AI will shape the future?" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><strong>How AI will shape the future?</strong></a>
 <br/> In recent years, artificial intelligence has had quite a significant impact on many industries and will continue to profit them in the future. AI is transforming the way people work .  Most of the industries no longer consider hiring physical workers... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651217935755/MQoBZ5Ara.png" alt="Ubuntu 22.04 LTS" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//ubuntu-2204-lts" title="Ubuntu 22.04 LTS"><strong>Ubuntu 22.04 LTS</strong></a>
-<br/> Jammy jellyfish has a wide range of customization options. The desktop comes with both a dark and a light theme. The Appearance tab includes options for changing the colour style. A bright red dot no longer represents the window close button. Instead... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
