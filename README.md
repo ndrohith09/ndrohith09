@@ -25,22 +25,52 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//advanced-voice-controlled-robot" title="Advanced voice controlled robot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655972332566/rkJehxwMx.png" alt="Advanced voice controlled robot" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//advanced-voice-controlled-robot" title="Advanced voice controlled robot"><strong>Advanced voice controlled robot</strong></a>
+<br/> In this blog, I will show you how to build an advanced voice controlled robot with HC-05 bluetooth module and an Arduino microcontroller.
+
+Components required
+
+Arudino UNO 
+HC-05
+Gear Motors 
+IC L293D
+
+Arduino UNO
+Arduino is an opensource electronics... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//advanced-tv-remote-controlled-robot" title="Advanced TV Remote controlled robot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655971794879/hQXQu4II1.png" alt="Advanced TV Remote controlled robot" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//advanced-tv-remote-controlled-robot" title="Advanced TV Remote controlled robot"><strong>Advanced TV Remote controlled robot</strong></a>
+<br/> In this blog, I will show you how to build an Advanced TV Remote controlled robot with a TSOP Sensor , TV remote and an Arduino microcontroller.
+
+Components required
+
+Arudino UNO
+TSOP Sensor
+Gear Motors
+IC L293D
+TV remote
+
+Arduino UNO
+Arduino is an o... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//accident-avoider-robot-using-ultrasonic-sensor" title="Accident Avoider Robot using Ultrasonic sensor"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655970628972/YU4c047m5.png" alt="Accident Avoider Robot using Ultrasonic sensor" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//accident-avoider-robot-using-ultrasonic-sensor" title="Accident Avoider Robot using Ultrasonic sensor"><strong>Accident Avoider Robot using Ultrasonic sensor</strong></a>
+<br/> In this blog, I will show you how to build an Accident Avoider Robot with an Ultrasonic sensor and an Arduino microcontroller.
+
+Components required
+
+Arudino UNO 
+HC-SR04 Ultrasonic sensor
+Gear Motors 
+IC L293D
+
+Arduino UNO
+Arduino is an opensource el... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655881969585/kMrRN4TwZ.jpg" alt="Introduction to Machine Learning" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><strong>Introduction to Machine Learning</strong></a>
 <br/> Machine learning is an artificial intelligence sub-field. It is a computer science research area that deals with methods to identify and implement systems and algorithms by which a computer can learn, based on the examples given in the input. The goa... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654948806834/A7YMbo2gp.png" alt="Hand Digit Prediction using Neural Networks and Tensorflow" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//hand-digit-prediction-using-neural-networks-and-tensorflow" title="Hand Digit Prediction using Neural Networks and Tensorflow"><strong>Hand Digit Prediction using Neural Networks and Tensorflow</strong></a>
-<br/> In this blog, I'll show you how to train a neural network model using the MNIST dataset, as well as how to predict the digits in them using images.
-Make sure you have the Tensorflow package installed, as it will be utilised as a Deep Learning library... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654503957546/kgEXS3BPN.png" alt="Setting up Jenkins for CI/CD and containerizing the application with Docker" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//setting-up-jenkins-for-cicd-and-containerizing-the-application-with-docker" title="Setting up Jenkins for CI/CD and containerizing the application with Docker"><strong>Setting up Jenkins for CI/CD and containerizing the application with Docker</strong></a>
-<br/> In this blog, I'll show you how to set up a Jenkins CI/CD pipeline and containerize an application with Docker. Let us take a logistic regression python code and push it to github. Jenkins will pull the code, run it, containerize the Python applicati... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652890993491/CwgH8tgvk.jpg" alt="How AI will shape the future?" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//how-ai-will-shape-the-future" title="How AI will shape the future?"><strong>How AI will shape the future?</strong></a>
-<br/> In recent years, artificial intelligence has had quite a significant impact on many industries and will continue to profit them in the future. AI is transforming the way people work .  Most of the industries no longer consider hiring physical workers... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
