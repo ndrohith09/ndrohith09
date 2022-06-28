@@ -25,13 +25,39 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//black-line-follower-with-arduino" title="Black Line Follower with Arduino"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656336130010/u7mFFNTkP.png" alt="Black Line Follower with Arduino" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//black-line-follower-with-arduino" title="Black Line Follower with Arduino"><strong>Black Line Follower with Arduino</strong></a>
+<br/> In this blog, I will show you how to build a black line follower robot with an Arduino microcontroller and IR Sensors.
+
+Components required
+
+Arduino UNO 
+IR Sensor 
+Gear Motors 
+IC L293D
+
+Arduino UNO
+Arduino is an opensource electronics platform base... </p> <br/> <br/>
+<p align="left">
+<a href="https://ndrohith09.hashnode.dev//analog-input-using-arduino" title="Analog Input using Arduino"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656335765858/-vZPrzbMZ.png" alt="Analog Input using Arduino" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//analog-input-using-arduino" title="Analog Input using Arduino"><strong>Analog Input using Arduino</strong></a>
+<br/> In this blog, I will show you how to create an analog input using Arduino.
+
+Components required
+
+Arduino UNO 
+Potentiometer
+
+Arduino UNO
+Arduino is an opensource electronics platform based on easy-to-use hardware and software. Arduino boards are able... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//advanced-voice-controlled-robot" title="Advanced voice controlled robot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655972332566/rkJehxwMx.png" alt="Advanced voice controlled robot" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//advanced-voice-controlled-robot" title="Advanced voice controlled robot"><strong>Advanced voice controlled robot</strong></a>
 <br/> In this blog, I will show you how to build an advanced voice controlled robot with HC-05 bluetooth module and an Arduino microcontroller.
 
 Components required
 
-Arudino UNO 
+Arduino UNO 
 HC-05
 Gear Motors 
 IC L293D
@@ -53,24 +79,6 @@ TV remote
 
 Arduino UNO
 Arduino is an o... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//accident-avoider-robot-using-ultrasonic-sensor" title="Accident Avoider Robot using Ultrasonic sensor"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655970628972/YU4c047m5.png" alt="Accident Avoider Robot using Ultrasonic sensor" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//accident-avoider-robot-using-ultrasonic-sensor" title="Accident Avoider Robot using Ultrasonic sensor"><strong>Accident Avoider Robot using Ultrasonic sensor</strong></a>
-<br/> In this blog, I will show you how to build an Accident Avoider Robot with an Ultrasonic sensor and an Arduino microcontroller.
-
-Components required
-
-Arudino UNO 
-HC-SR04 Ultrasonic sensor
-Gear Motors 
-IC L293D
-
-Arduino UNO
-Arduino is an opensource el... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655881969585/kMrRN4TwZ.jpg" alt="Introduction to Machine Learning" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//introduction-to-machine-learning" title="Introduction to Machine Learning"><strong>Introduction to Machine Learning</strong></a>
-<br/> Machine learning is an artificial intelligence sub-field. It is a computer science research area that deals with methods to identify and implement systems and algorithms by which a computer can learn, based on the examples given in the input. The goa... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
