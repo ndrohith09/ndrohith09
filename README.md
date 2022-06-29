@@ -25,6 +25,12 @@
 <a href="https://ndrohith09.hashnode.dev//why-do-farmers-want-to-give-up-farming" title="Why do farmers want to give up farming?"><strong>Why do farmers want to give up farming?</strong></a>
 <br/> India is a rising economy with tremendous development potential. We have wonderful land that can yield gold if utilized properly. India is now one of the world's largest producer of a variety of dry fruits, agricultural-based textile raw materials, r... </p> <br/> <br/>
 <p align="left">
+<a href="https://ndrohith09.hashnode.dev//bluetooth-controlled-robot" title="Bluetooth Controlled Robot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656336774496/I2M7zdGSQ.png" alt="Bluetooth Controlled Robot" width="250px" align="left" /></a>
+<a href="https://ndrohith09.hashnode.dev//bluetooth-controlled-robot" title="Bluetooth Controlled Robot"><strong>Bluetooth Controlled Robot</strong></a>
+<br/> In this blog, I will show you how to build a bluetooth controlled robot with HC-05 bluetooth module and an Arduino microcontroller. You can use any bluetooth mobile app available in playstore to connect you mobile to bluetooth module. 
+
+Components re... </p> <br/> <br/>
+<p align="left">
 <a href="https://ndrohith09.hashnode.dev//black-line-follower-with-arduino" title="Black Line Follower with Arduino"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656336130010/u7mFFNTkP.png" alt="Black Line Follower with Arduino" width="250px" align="left" /></a>
 <a href="https://ndrohith09.hashnode.dev//black-line-follower-with-arduino" title="Black Line Follower with Arduino"><strong>Black Line Follower with Arduino</strong></a>
 <br/> In this blog, I will show you how to build a black line follower robot with an Arduino microcontroller and IR Sensors.
@@ -64,21 +70,6 @@ IC L293D
 
 Arduino UNO
 Arduino is an opensource electronics... </p> <br/> <br/>
-<p align="left">
-<a href="https://ndrohith09.hashnode.dev//advanced-tv-remote-controlled-robot" title="Advanced TV Remote controlled robot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1655971794879/hQXQu4II1.png" alt="Advanced TV Remote controlled robot" width="250px" align="left" /></a>
-<a href="https://ndrohith09.hashnode.dev//advanced-tv-remote-controlled-robot" title="Advanced TV Remote controlled robot"><strong>Advanced TV Remote controlled robot</strong></a>
-<br/> In this blog, I will show you how to build an Advanced TV Remote controlled robot with a TSOP Sensor , TV remote and an Arduino microcontroller.
-
-Components required
-
-Arudino UNO
-TSOP Sensor
-Gear Motors
-IC L293D
-TV remote
-
-Arduino UNO
-Arduino is an o... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
