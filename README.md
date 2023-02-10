@@ -5,6 +5,8 @@
 [![@ndrohith09's Holopin board](https://holopin.io/api/user/board?user=ndrohith09)](https://holopin.io/@ndrohith09)
 
 <!-- ![github](https://user-images.githubusercontent.com/73429989/151312701-97499c80-f6ed-4c48-95a2-a54b612f67fd.png) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndrohith09&label=Profile%20views&color=0e75b6&style=flat" alt="ndrohith09" /> </p>
+
  
 - 🔭 I’m currently working on **Flutter**
 
