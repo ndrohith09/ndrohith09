@@ -77,8 +77,18 @@ Arduino is an opensource electronics platform based on easy-to-use hardware and 
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Badges:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cdbf1b5a-70fe-4e7c-9c8a-1c8fb8d5d0c4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b62919f-3994-4b0e-94f4-49cc8078a9bd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/ndrohith09/ndrohith09/assets/73429989/40de1a87-9da4-4876-ab1f-5c105706080c" alt="grand-prize" />
+    </td>
+    <td>
+      <img src="https://github.com/ndrohith09/ndrohith09/assets/73429989/aa0ea163-9ef5-4e20-ada1-402164cd2cb3" alt="participation-prize" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
