@@ -76,6 +76,10 @@ Arduino UNO
 Arduino is an opensource electronics platform based on easy-to-use hardware and software. Arduino boards are able... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<h3 align="left">Badges:</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cdbf1b5a-70fe-4e7c-9c8a-1c8fb8d5d0c4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b62919f-3994-4b0e-94f4-49cc8078a9bd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
